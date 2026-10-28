@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runtime/
+dist/
+outputs/
+.HD2ArmorSwap_*/
+.env
+.env.*
+*.zip
+*.7z
+*.rar
+*.patch_*
